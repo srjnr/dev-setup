@@ -2,5 +2,6 @@ Fisher:
 https://github.com/jorgebucaran/fisher
 curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
 
+https://github.com/franciscolourenco/done
 
-
+https://github.com/IlanCosman/tide
