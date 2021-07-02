@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/local/home/suranair/workspace/MASDiscoTPS/src/MASDiscoveryServiceInternalTPSGenerator'
+let g:netrw_dirhist_2='/local/home/suranair/workspace/MASDiscoTPS/src/MASDiscoveryServiceInternalTPSGenerator/src'
+let g:netrw_dirhist_3='/local/home/suranair/workspace/MASDiscoTPS/src/MASDiscoveryServiceInternalTPSGenerator/src/com'
+let g:netrw_dirhist_4='/local/home/suranair/workspace/MASDiscoTPS/src/MASDiscoveryServiceInternalTPSGenerator/src/com/amazon'
+let g:netrw_dirhist_5='/local/home/suranair/workspace/MASDiscoTPS/src/MASDiscoveryServiceInternalTPSGenerator/src/com/amazon/mas'
+let g:netrw_dirhist_6='/local/home/suranair/workspace/MASDiscoTPS/src/MASDiscoveryServiceInternalTPSGenerator/src/com/amazon/mas/discoveryservice'
+let g:netrw_dirhist_7='/local/home/suranair/workspace/MASDiscoTPS/src/MASDiscoveryServiceInternalTPSGenerator/src/com/amazon/mas/discoveryservice/loadgenerator'
+let g:netrw_dirhist_8='/local/home/suranair/IN Changes/AMEU_ACCOUNT_CURRENCY_CHANGE'
