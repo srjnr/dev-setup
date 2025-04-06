@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Accept a question as a single string argument
+question="$*"
+
+# Use curl to send the request and jq to extract and print the message content
+response=$(curl -s http://localhost:11434/api/chat -d "{
+  \"model\": \"gemma3:1b\",
+  \"messages\": [
+    {
+      \"role\": \"user\",
+      \"content\": \"$question\"
+    }
+  ],
+  \"stream\": false
+}")
+
+# Extract and output the content without quotes
+echo "$response" | jq -r .message.content
+
